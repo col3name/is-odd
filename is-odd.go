@@ -10,5 +10,5 @@ func IsOdd(number int64) (bool, error) {
 	} else if number%2 != 0 {
 		return false, nil
 	}
-	return false, nil
+	return false, UnsupportedError
 }
