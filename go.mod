@@ -1,3 +1,3 @@
-module github.com/col3name/is-odds-fn
+module github.com/col3name/is-odd-fn
 
 go 1.17
