@@ -2,7 +2,7 @@
 > Returns true if the given number is odd, and is an int64 in golang.
 
 # Install 
-`go get -t github.com/col3name/is-odds-fn`
+`go get -t github.com/col3name/is-odd-fn`
 
 # Usage
 ```go
